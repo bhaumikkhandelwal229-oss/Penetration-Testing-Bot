@@ -35,7 +35,7 @@ This project is created for **educational and ethical security testing purposes 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/penetration-testing-bot.git
+git clone https://github.com/bhaumikkhandelwal229-oss/penetration-testing-bot.git
 ```
 
 2. Navigate to the project directory
